@@ -1,0 +1,11 @@
+#post {
+    width: 100% !important;
+    box-sizing: border-box !important;
+    max-width: none;
+}
+div.post > #content-inner {
+    margin: 0 !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+    max-width: none;
+}
